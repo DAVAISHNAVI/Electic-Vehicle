@@ -21,6 +21,8 @@ he provided image is a dashboard titled **"ELECTRIC VEHICAL ANALYSIS"**, which v
 - **Top brands:**
   - **Tesla** dominates with **69K** vehicles.
   - **Nissan (13K), Chevrolet (12K), Ford (8K), BMW (6K), Kia (6K)**, etc.
+![Screenshot 2025-03-06 190920](https://github.com/user-attachments/assets/72d3e1e9-da09-4896-80ff-43a96a9f0b67)
+
 
 ### **5. Total Vehicles by Clean Alternative Fuel Vehicle (CAFV) Eligibility (Bottom Middle)**
 - A pie chart indicating eligibility for **clean alternative fuel programs**:
