@@ -1,6 +1,6 @@
 # Electrical Vehical Analysis
 
-he provided image is a dashboard titled **"ELECTRIC VEHICAL ANALYSIS"**, which visualizes data related to electric vehicles. The dashboard is designed with a dark theme and uses green elements to highlight key statistics. Here’s a breakdown of its key components and features:
+The image is a dashboard titled **"ELECTRIC VEHICAL ANALYSIS"**, which visualizes data related to electric vehicles. The dashboard is designed with a dark theme and uses green elements to highlight key statistics. Here’s a breakdown of its key components and features:
 
 ### **1. Key Metrics (Top Left)**
 - **Total vehicles:** **150.42K**  
